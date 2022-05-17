@@ -1,0 +1,50 @@
+DSA-2 --->By Mechate Lavanyasai Kumar--- > Easy Level
+
+  1. Insert a node at the given position
+  2. Anagram
+  3. Reverse a queue
+  
+  DSA-2 --->By Saurav Anand ---> Easy Level
+  
+  Stacks : Check for valid brackets sequence. ()()()
+  Strings : Replace each char with next one.
+  
+  
+DSA-2 --->  By Kush Hingol ---> Medium level
+
+        1. What is string
+        2. is String a data type or Object
+        3. What is string pool
+        4. How many objects will be created in the below code
+
+        String firstString = "Gaurav";
+        String secondString = "Gaurav";
+        String thirdString =  new String("Gaurav");
+
+        5. What will be the output for below code
+        public static void main(String[] args) {
+        String firstString = "Gaurav";
+        String secondString = "Gaurav";
+        String thirdString =  new String("Gaurav");
+        System.out.print("Case 1 : ");
+        System.out.println(firstString == secondString);
+        System.out.print("Case 2 : ");
+        System.out.println(firstString == thirdString);
+
+        System.out.print("Case 3 : ");
+        System.out.println(firstString.equals(thirdString));
+        }
+
+        6. What is linkedlist
+        7. How linkedlist is stored in memory
+        8. What is the time complexity of insertion and deletion in singly linkedlist
+
+        DSA question medium difficulty 
+
+        Merge all nodes with the sum value between the occurence of two zeros
+
+        Input: head = [0,3,1,0,4,5,2,0]
+        Output: [4,11]
+        
+        
+        
