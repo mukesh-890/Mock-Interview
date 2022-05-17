@@ -1,0 +1,155 @@
+WDF --->By Chintamani Meher ---> Easy level
+
+    -What do you know about JavaScript? 
+    -What are the topics you know in JavaScript practical implementation? 
+    -Is there any compiler required to run the JS code? 
+    -What is the difference between HTML5 and HTML. 
+    -What is the use of head tag in html? 
+    -What is DOCTYPE html? 
+    -What are Semantic elements?
+    -Datatypes & Variables in JavaScript. 
+    -Difference between var and let keyword. 
+    -What is Global Variable?
+    -What is a scope.
+    -What is a Function. Write a sample code.
+    -What are the type of pop-ups available in JavaScript. 
+    -JavaScript Date. Print current datetime upon clicking on a button.
+    -JavaScript Array 
+    -for Vs foreach loop 
+    -JavaScript Operators 
+    == Vs === 
+    null Vs undefined Vs not defined
+    i++ Vs ++i   (Given a scenario)
+
+    -What are the type of selectors are there in CSS? 
+    -In how many ways can CSS style can be applied. 
+    -CSS box model 
+    -What is the difference between margin and padding? 
+    -display:none Vs visibility:hidden 
+    -Is CSS case-sensitive? 
+
+
+
+WDF -->By Debasish Pothal---->Medium level
+
+    - what is a higher order function
+    - use javascript sort method to sort an array of objects
+    - what is prototype
+    - what is prototypal inheritance
+    - callback function
+    - difference between arrow function and normal function
+    - what is event propagation
+    - what is difference between stopPropagation and stopImmidiatePropagation
+    - what is hoisting
+    - write a function to print 1-5 every second
+    - what are different css positions
+    - difference between relative vs absolute position
+    - create a html table with nested heading
+  
+ WDF -->By Aravinda Reddy Pulagurla ----> Medium Level
+ 
+       HTML
+      -What is Html - Yes
+      - structure of HTML Document -no
+      - What is the difference between div and span ?-yes
+      - MetaData in HTML? - yes
+      -what are semantic tags ? -yes
+      -What is the difference between  tags and attributes in HTML?-yes
+      -what is Doctype-yes
+
+      CSS
+      -What is the Box Model ? - yes
+      - What are the different types of Selectors in CSS?- yes
+      -How many ways we can write css - yes
+
+      JavaScript
+      - What are the Primitive Data Types in javascript?-yes
+      -Difference between “==”  and  “===” operators-yes
+      - what is let , var,const - yes
+      -what is DOM -No
+      -What are the types of scopes -yes
+      -Create table with caption,3 rows and 3 columns .table should be in center and make border to table-yes
+  
+  
+  
+WDF --> By Desh Chatterjee-->Medium level
+
+       Create a layout
+      Closure in javascript
+      What is IIFE 
+      What is callback 
+      What is promise
+      What is hoisting
+      
+WDF---> By Ankit Srivastava---->Medium Level
+      
+      Create a to do list. With Jira Board basic functionality (to do items, in progress items and completed items)
+      
+WDF ---> By Prateek Jain--Hard Level    
+
+        HTML
+        Are html tags and elements different or same?
+        Do all HTML tags have an end tag?
+        Can you tell if you want to add audio or video in html file?
+        Can you tell me the different types of lists? 
+        What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements?
+        How do you change the number type in the middle of a list?
+        Can we display a web page inside a web page or Is nesting of webpages possible?
+        I asked him to design the html form
+        What is the advantage of grouping several checkboxes together?
+        What are applets?
+        
+        CSS
+        What are the advantages of using CSS?
+        What are the limitations of CSS?
+        What is the Box model in CSS?
+        What are the different types of Selectors in CSS?
+        What's the difference between SCSS and Sass?
+        What are the different types of CSS?
+        What's the difference between a relative, fixed, absolute and static positioned element?
+        What is meant by RGB stream?
+        What is viewport height viewport width?
+        WHAT IS FLEXBOX IN CSS? 
+        How you will link your CSS file to html file?
+       
+        JAVASCRIPT
+        What do you know about JAVASCRIPT?
+        What are global variables? How are these variable declared?
+        What is ‘this’ keyword in JavaScript?
+        Explain equality in JavaScript(do you know the difference between == and ===)
+        Do you know the difference between setTimeOut() and setTimeInterval() ?
+        (function(){
+         setTimeout(()=> console.log(1),2000);
+         console.log(2);
+         setTimeout(()=> console.log(3),0);
+         console.log(4);
+        })();
+        can you tell me the difference between forEach() and map() function?
+        const arr = [1,2,3,4,5,6,7]
+        arr.forEach(x => x * x)
+        arr.map(x => x * x)
+        Explain the difference between Object.freeze() vs const
+        What is clousers in JAVASCRIPTS?
+        create a function to add two numbers using clousers
+        What is shallow copy and deep copy in JS ?
+        What is Immediately invoked function?
+        What are annonymous functions?
+        What is high order function in JAVASCRIPTS?
+        
+        
+WDF -->By Rounak Goliya--->Medium Level
+
+      1: make a circle
+      2:add buttom to change is height and width.
+      2:ES6 concepts 
+
+ WDF --> By Desh Chatterjee --> Hard level
+ 
+      Implementation : Create a simple Buddy List with add & delete functionalities
+      Currying function
+      Pure function
+      Hoisting
+ 
+ 
+    
+    
