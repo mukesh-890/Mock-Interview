@@ -1,0 +1,72 @@
+DSA-1 --->By Vinoth kumar----> Easy Level
+  
+    1) Find the non repeating element in the array.
+   2) Count the no of vowels in a given string.
+   
+DSA-1 -----> By Deepak Kumar ---> Easy level
+   
+     1. Print odd and even elements of array  
+    2. WAP to reverse a string  
+    3. Sort an array - Selection Sort  
+    4. WAP to check whether a string is palindrome  
+    
+DSA-1 ---->By pavan bhansali -- > Medium level
+
+      Binary search Time complexity ? 
+      What is Array and its mainipulations ?
+      Show Insertion sort & its working 
+      What are the time complexity of basic sorting techniques
+      Does JAVA has Pointers.?
+      What are Bubble and Selection Sort ? Which one is better according to a given input ? 
+      What is hashing ? What are Hashmaps ? Hashsets ? Implement them .
+
+DSA-1 --->By Rajat goyal  ---> Medium level
+
+      merge sort 
+      binary search    
+    
+    
+DSA-1 ---> By Ravi Prakash --> Medium Level
+
+  - write a code for Fibonacci series 
+  - write a code to swap two words separated by space in a string 
+  Eg: input - “hello world” output- “world hello”
+
+  
+  DSA-1--->By pranjul gupta ----> Hard level
+  
+  what is hashing,
+  what is hashmap, what is hashset,
+  write the code for count the frequency of each element present in the array,
+  what is merge sort,
+  write the code for merge the 2 sorted array such that new array should be sorted and does not contain repeated value.
+  
+  
+  
+DSA-1---> By Himanshu Manu Udhwani ---> Hard Level
+ 
+  - What is Array
+  - Advantages of Array 
+  - Disadvantages of Array  
+  - What is difference between Linear & Non Linear data structure? Give few examples?
+  - Is Array is a linear data structure? 
+  - What is a multidimensional array?
+  - Implementation of multidimensional array
+  - Nested for loop
+  - Can you tell me the differences between Array and Linked list?
+  -Different searching algorithm. Difference between Linear and binary search
+  -Difference between Hashmap and hashset
+  - Find the highest frequency element in an array 
+  - Find the product of sum of diagonal of 2D array
+  - Sort an array using bubble sort algorithm
+  - What are different sorting algorithm. Comparison of them
+  - Time complexity
+  
+DSA-1--->Soumya Sambit Mangaraj--->Hard Level
+
+    Remove duplicates from an array of integers.
+    Highest frequency number from an array.
+    Merge Sort.
+    Time complexity.
+
+  
